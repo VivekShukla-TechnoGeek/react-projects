@@ -6,7 +6,6 @@ import {
   Route,
   RouterProvider,
 } from "react-router-dom";
-import App from "./App.jsx";
 import "./index.css";
 import Root from "./Root.jsx";
 import Home from "./components/Home/Home.jsx";
